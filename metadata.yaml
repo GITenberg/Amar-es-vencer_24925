@@ -1,0 +1,24 @@
+_repo: Amar-es-vencer_24925
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caro, Madame P.
+    gutenberg_agent_id: '26817'
+    url: http://www.gutenberg.org/2009/agents/26817
+description: ''
+gutenberg_issued: '2008-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24925'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish fiction'
+title: Amar es vencer
+url: http://www.gutenberg.org/ebooks/24925
